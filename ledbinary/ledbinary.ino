@@ -1,4 +1,4 @@
-#include "LedControl.h"
+#include <LedControl.h>
 
 /*
   Now we need a LedControl to work with.
@@ -90,5 +90,5 @@ void countDown(unsigned long start) {
 
 void loop() {
   resetMatrix(matrixHeight, matrix);
-  countDown(31556952);
+  countDown(10);
 }
