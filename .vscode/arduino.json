@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:mega",
-    "configuration": "cpu=atmega2560",
-    "sketch": "20200104ledbinary-3\\20200104ledbinary-3.ino",
-    "port": "COM4"
-}
